@@ -1,4 +1,6 @@
-title: My Coding Diaries
+layout: page
+title: "2022-06-11-my-first-blog-post"
+permalink: /home/
 author: Shradha Rao
 email: shradharaoworks@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
