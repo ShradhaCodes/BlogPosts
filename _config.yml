@@ -4,7 +4,7 @@ email: shradharaoworks@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Learn Angular with me!. Blog posts for all Angular related.
 
-theme: architect
+theme: minima
 # social links
 github_username:  ShradhaCodes # DO NOT include the @ character, or else the build will fail!
 
